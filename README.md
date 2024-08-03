@@ -16,7 +16,7 @@
 - Fixed Technical issues
 - Project size compression
 - UI/UX is more specific
-- Developer Friendlier
+- Better DX
 
 ## Access to xShop/v1
 > [!WARNING]  
